@@ -1,0 +1,61 @@
+SuperAnimalConversionTables: null
+Task: Projet_final
+TrainingFraction:
+- 0.95
+alphavalue: 0.7
+batch_size: 8
+bodyparts:
+- Nose
+- Left_ear
+- Right_ear
+- Front_left_paw
+- Front_right_paw
+- Body_center
+- Tail_start
+- Tail_end
+colormap: rainbow
+corner2move2:
+- 50
+- 50
+cropping: false
+date: Jul8
+default_augmenter: default
+default_net_type: resnet_50
+detector_batch_size: 1
+detector_snapshotindex: -1
+dotsize: 4
+engine: pytorch
+identity: null
+iteration: 0
+move2corner: true
+multianimalproject: false
+numframes2pick: 20
+pcutoff: 0.8
+project_path: C:\Users\Anir\Desktop\DeepLabCut\programs\ressources\model
+scorer: Anir
+skeleton:
+- - Nose
+  - Left_ear
+- - Right_ear
+  - Front_right_paw
+- - Tail_start
+  - Tail_end
+- - Front_right_paw
+  - Body_center
+- - Nose
+  - Right_ear
+- - Body_center
+  - Tail_start
+- - Left_ear
+  - Front_left_paw
+- - Front_left_paw
+  - Body_center
+skeleton_color: black
+snapshotindex: -1
+start: 0
+stop: 1
+video_sets: {}
+x1: 0
+x2: 640
+y1: 277
+y2: 624

@@ -1,0 +1,21 @@
+,VIDEO,ANIMAL,BODY-PART,SHAPE,ENTRY COUNT
+0,fixed_J1-491,Animal_1,Center,top_right_corner,2
+1,fixed_J1-491,Animal_1,Center,bottom_right_corner,14
+2,fixed_J1-491,Animal_1,Center,bottom_left_corner,7
+3,fixed_J1-491,Animal_1,Center,top_left_corner,3
+4,fixed_J1-491,Animal_1,Center,center,16
+5,fixed_J1-564,Animal_1,Center,top_right_corner,6
+6,fixed_J1-564,Animal_1,Center,bottom_right_corner,7
+7,fixed_J1-564,Animal_1,Center,bottom_left_corner,9
+8,fixed_J1-564,Animal_1,Center,top_left_corner,10
+9,fixed_J1-564,Animal_1,Center,center,14
+10,fixed_J6-491,Animal_1,Center,top_right_corner,2
+11,fixed_J6-491,Animal_1,Center,bottom_right_corner,5
+12,fixed_J6-491,Animal_1,Center,bottom_left_corner,14
+13,fixed_J6-491,Animal_1,Center,top_left_corner,22
+14,fixed_J6-491,Animal_1,Center,center,4
+15,fixed_J6-564,Animal_1,Center,top_right_corner,1
+16,fixed_J6-564,Animal_1,Center,bottom_right_corner,10
+17,fixed_J6-564,Animal_1,Center,bottom_left_corner,8
+18,fixed_J6-564,Animal_1,Center,top_left_corner,2
+19,fixed_J6-564,Animal_1,Center,center,14

@@ -1,0 +1,41 @@
+,VIDEO,ANIMAL,BODY-PART,SHAPE,MEASUREMENT,VALUE
+0,fixed_J1-491,Animal_1,Center,top_right_corner,Movement (cm),54.38464973700303
+1,fixed_J1-491,Animal_1,Center,top_right_corner,Average velocity (cm/s),6.53039188673534
+2,fixed_J1-491,Animal_1,Center,bottom_right_corner,Movement (cm),467.4376952917616
+3,fixed_J1-491,Animal_1,Center,bottom_right_corner,Average velocity (cm/s),3.4661688899717693
+4,fixed_J1-491,Animal_1,Center,bottom_left_corner,Movement (cm),117.34207431069987
+5,fixed_J1-491,Animal_1,Center,bottom_left_corner,Average velocity (cm/s),13.803278366933187
+6,fixed_J1-491,Animal_1,Center,top_left_corner,Movement (cm),35.01213207002939
+7,fixed_J1-491,Animal_1,Center,top_left_corner,Average velocity (cm/s),15.956014374964345
+8,fixed_J1-491,Animal_1,Center,center,Movement (cm),423.81110991027447
+9,fixed_J1-491,Animal_1,Center,center,Average velocity (cm/s),4.3313542854225915
+10,fixed_J1-564,Animal_1,Center,top_right_corner,Movement (cm),183.16255862854865
+11,fixed_J1-564,Animal_1,Center,top_right_corner,Average velocity (cm/s),5.844673751951453
+12,fixed_J1-564,Animal_1,Center,bottom_right_corner,Movement (cm),205.10003126695463
+13,fixed_J1-564,Animal_1,Center,bottom_right_corner,Average velocity (cm/s),25.641312895739798
+14,fixed_J1-564,Animal_1,Center,bottom_left_corner,Movement (cm),299.45084854430485
+15,fixed_J1-564,Animal_1,Center,bottom_left_corner,Average velocity (cm/s),7.344770768745359
+16,fixed_J1-564,Animal_1,Center,top_left_corner,Movement (cm),582.8227564554185
+17,fixed_J1-564,Animal_1,Center,top_left_corner,Average velocity (cm/s),2.5850851677387157
+18,fixed_J1-564,Animal_1,Center,center,Movement (cm),194.1180855452889
+19,fixed_J1-564,Animal_1,Center,center,Average velocity (cm/s),28.883514776601363
+20,fixed_J6-491,Animal_1,Center,top_right_corner,Movement (cm),20.51678112223765
+21,fixed_J6-491,Animal_1,Center,top_right_corner,Average velocity (cm/s),3.4517555397430417
+22,fixed_J6-491,Animal_1,Center,bottom_right_corner,Movement (cm),278.7451609389169
+23,fixed_J6-491,Animal_1,Center,bottom_right_corner,Average velocity (cm/s),6.242397179119964
+24,fixed_J6-491,Animal_1,Center,bottom_left_corner,Movement (cm),104.60832088188737
+25,fixed_J6-491,Animal_1,Center,bottom_left_corner,Average velocity (cm/s),2.6991066750055013
+26,fixed_J6-491,Animal_1,Center,top_left_corner,Movement (cm),177.14681834482786
+27,fixed_J6-491,Animal_1,Center,top_left_corner,Average velocity (cm/s),2.885519537222103
+28,fixed_J6-491,Animal_1,Center,center,Movement (cm),56.081247449939
+29,fixed_J6-491,Animal_1,Center,center,Average velocity (cm/s),28.594262550941295
+30,fixed_J6-564,Animal_1,Center,top_right_corner,Movement (cm),14.263155913243022
+31,fixed_J6-564,Animal_1,Center,top_right_corner,Average velocity (cm/s),3.8832548178462054
+32,fixed_J6-564,Animal_1,Center,bottom_right_corner,Movement (cm),415.3965911438394
+33,fixed_J6-564,Animal_1,Center,bottom_right_corner,Average velocity (cm/s),3.264323509632038
+34,fixed_J6-564,Animal_1,Center,bottom_left_corner,Movement (cm),293.9691629228938
+35,fixed_J6-564,Animal_1,Center,bottom_left_corner,Average velocity (cm/s),3.7451692942688313
+36,fixed_J6-564,Animal_1,Center,top_left_corner,Movement (cm),38.24099083139102
+37,fixed_J6-564,Animal_1,Center,top_left_corner,Average velocity (cm/s),2.915645709910234
+38,fixed_J6-564,Animal_1,Center,center,Movement (cm),159.37406624851394
+39,fixed_J6-564,Animal_1,Center,center,Average velocity (cm/s),5.151728975762422
