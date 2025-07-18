@@ -8,7 +8,7 @@ from simba.outlier_tools.skip_outlier_correction import OutlierCorrectionSkipper
 from simba.pose_importers.dlc_importer_csv import import_dlc_csv_data  # Import de l'importateur CSV DLC (non utilisé ici)
 
 from simba.mixins.config_reader import read_config_file
-from simba.feature_extractors.feature_extractor_8bps import ExtractFeaturesFrom8bps
+from simba.feature_extractors.feature_extractor_8bp import ExtractFeaturesFrom8bps
 from simba.roi_tools.ROI_analyzer import ROIAnalyzer
 from simba.plotting.roi_plotter import ROIPlotter
 
